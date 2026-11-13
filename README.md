@@ -1,0 +1,2 @@
+# GenAI_G21_Banking_Policy_Question_Answering_using_RAG_with_Citations
+LLM Model Project
